@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aktuella-control/static/css/main.5f361e03.chunk.css",
+    "main.js": "/aktuella-control/static/js/main.fa912168.chunk.js",
+    "main.js.map": "/aktuella-control/static/js/main.fa912168.chunk.js.map",
+    "runtime-main.js": "/aktuella-control/static/js/runtime-main.e6c6a74e.js",
+    "runtime-main.js.map": "/aktuella-control/static/js/runtime-main.e6c6a74e.js.map",
+    "static/js/2.debe3e43.chunk.js": "/aktuella-control/static/js/2.debe3e43.chunk.js",
+    "static/js/2.debe3e43.chunk.js.map": "/aktuella-control/static/js/2.debe3e43.chunk.js.map",
+    "index.html": "/aktuella-control/index.html",
+    "precache-manifest.3287f8dc809573be0dbfc6d039089a37.js": "/aktuella-control/precache-manifest.3287f8dc809573be0dbfc6d039089a37.js",
+    "service-worker.js": "/aktuella-control/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/aktuella-control/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.debe3e43.chunk.js.LICENSE.txt": "/aktuella-control/static/js/2.debe3e43.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/aktuella-control/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c6a74e.js",
+    "static/js/2.debe3e43.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fa912168.chunk.js"
+  ]
+}
